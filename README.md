@@ -2,7 +2,7 @@
   <img src="resources/mmpose-logo.png" width="450"/>
   <div>&nbsp;</div>
   <div align="center">
-    <b>OpenMMLab website</b>
+    <b>OpenMMLab website - test</b>
     <sup>
       <a href="https://openmmlab.com">
         <i>HOT</i>
